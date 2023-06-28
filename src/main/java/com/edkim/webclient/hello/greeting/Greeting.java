@@ -1,4 +1,4 @@
-package com.edkim.webclient.hello;
+package com.edkim.webclient.hello.greeting;
 
 public class Greeting {
 

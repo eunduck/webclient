@@ -1,5 +1,6 @@
 package com.edkim.webclient.hello;
 
+import com.edkim.webclient.hello.greeting.Greeting;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;

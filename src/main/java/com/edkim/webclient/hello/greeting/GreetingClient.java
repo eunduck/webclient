@@ -1,4 +1,4 @@
-package com.edkim.webclient.hello;
+package com.edkim.webclient.hello.greeting;
 
 import reactor.core.publisher.Mono;
 
